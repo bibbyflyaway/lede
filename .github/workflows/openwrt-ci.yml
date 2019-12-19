@@ -176,21 +176,21 @@ jobs:
           CONFIG_PACKAGE_luci-app-accesscontrol=y
           CONFIG_PACKAGE_luci-app-aliddns=y
           CONFIG_PACKAGE_luci-app-arpbind=y
-          CONFIG_PACKAGE_luci-app-attendedsysupgrade=y
-          CONFIG_PACKAGE_luci-app-autoreboot=y
-          CONFIG_PACKAGE_luci-app-cshark=y
-          CONFIG_PACKAGE_luci-app-dnscrypt-proxy=y
-          CONFIG_PACKAGE_luci-app-dnscrypt-dnsforwarder=y
-          CONFIG_PACKAGE_luci-app-multiwan=y
-          CONFIG_PACKAGE_luci-app-ntpc=y
-          CONFIG_PACKAGE_luci-app-qos=y
-          CONFIG_PACKAGE_luci-app-ramfree=y
-          CONFIG_PACKAGE_luci-app-samba=y
-          CONFIG_PACKAGE_luci-app-samba4=y
-          CONFIG_PACKAGE_luci-app-sfe=y
-          CONFIG_PACKAGE_luci-app-syncdial=y
-          CONFIG_PACKAGE_luci-app-v2ray-pro=y
-          CONFIG_PACKAGE_luci-app-watchcat=y
+          # CONFIG_PACKAGE_luci-app-attendedsysupgrade=y
+          # CONFIG_PACKAGE_luci-app-autoreboot=y
+          # CONFIG_PACKAGE_luci-app-cshark=y
+          # CONFIG_PACKAGE_luci-app-dnscrypt-proxy=y
+          # CONFIG_PACKAGE_luci-app-dnscrypt-dnsforwarder=y
+          # CONFIG_PACKAGE_luci-app-multiwan=y
+          # CONFIG_PACKAGE_luci-app-ntpc=y
+          # CONFIG_PACKAGE_luci-app-qos=y
+          # CONFIG_PACKAGE_luci-app-ramfree=y
+          # CONFIG_PACKAGE_luci-app-samba=y
+          # CONFIG_PACKAGE_luci-app-samba4=y
+          # CONFIG_PACKAGE_luci-app-sfe=y
+          # CONFIG_PACKAGE_luci-app-syncdial=y
+          # CONFIG_PACKAGE_luci-app-v2ray-pro=y
+          # CONFIG_PACKAGE_luci-app-watchcat=y
           EOF
 
           # LuCI主题:
